@@ -60,3 +60,15 @@ Finally, we show the updated date.
 In simple terms, it's like managing a calendar. We set a date, check for special years, know how many days each month has, and when we want to move to the next day, we follow some rules to keep things in order.
 
 ### ***Output Screenshot*** : 
+
+Code:
+
+https://github.com/anikethmehta/LAB10/blob/main/code1.png
+
+https://github.com/anikethmehta/LAB10/blob/main/code2.png
+
+https://github.com/anikethmehta/LAB10/blob/main/code3.png
+
+Output:
+
+https://github.com/anikethmehta/LAB10/blob/main/output.png
